@@ -1,3 +1,3 @@
 # DevSpeaks
 
-Room based chat application.
+Room based forum application.
