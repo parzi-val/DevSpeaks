@@ -16,3 +16,4 @@ urlpatterns = [
     path('topics/',views.topicsPage,name = 'topics'),
     path('activity/',views.activityPage,name = 'activity')
 ]
+    
